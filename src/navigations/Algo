@@ -1,0 +1,20 @@
+
+
+Stack: LoginNavigation (First Screen to be opened)
+       Drawer
+       SpecialistDetail
+       SpecialistDetail1
+
+
+Drawer: Home
+        About Patient
+        Help Patient
+        Bottom Tab
+
+
+BottomTab:  PatientHome
+            SpecialistListing
+            AppointmentBooking
+            DocumentUpload
+
+
