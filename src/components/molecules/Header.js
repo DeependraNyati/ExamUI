@@ -57,7 +57,7 @@ const Header = () => {
         </View>
         <View style={styles.Text}>
           <Text style={styles.TextGoodMorning}>Good Morning</Text>
-          <Text style={styles.TextAriuka}> Ariuka</Text>
+          <Text style={styles.TextAriuka}> Arika</Text>
         </View>
       </View>
 
